@@ -7,7 +7,20 @@
 		<key>WingmappApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5B57F32419DB9F11006A4EF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B57F34019DB9F11006A4EF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
